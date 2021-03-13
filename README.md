@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yccai36
+- 👋 Hi, I'm Yuchen here.
 - 👀 I’m interested in full stack development.
 - 🌱 I’m currently learning React and Node.js
 - 💞️ I’m looking to collaborate on GitHub
